@@ -1,11 +1,11 @@
-🏡 Airbnb Market Analysis Dashboard
+**🏡 Airbnb Market Analysis Dashboard**
 
-📌 Project Overview
+**📌 Project Overview**
 
 This project analyzes Airbnb listing data to uncover insights related to pricing trends, host behavior, geographic distribution, and guest engagement.
 Interactive dashboards were built using Tableau to visualize key patterns and support data-driven decision making.
 
-📊 Key Insights
+**📊 Key Insights**
 
 Manhattan and Brooklyn have the highest number of listings and revenue contribution.
 
@@ -17,7 +17,7 @@ Hosts with multiple listings dominate a large portion of the market.
 
 Instant bookable listings tend to attract more guest engagement.
 
-📈 Dashboard Analysis
+**📈 Dashboard Analysis**
 
 The project includes multiple dashboards focusing on:
 
@@ -33,7 +33,7 @@ Guest Reviews Analysis – Ratings and feedback across locations
 
 Room Type & Policy Trends – Impact of room types and cancellation policies on pricing
 
-🛠 Tools & Technologies
+**🛠 Tools & Technologies**
 
 Tableau – Data visualization & dashboards
 
@@ -41,14 +41,18 @@ Excel / CSV – Data source
 
 GitHub – Project hosting
 
-📂 Project Structure
+**📂 Project Structure**
 Airbnb-Data-Analysis
 │
 ├── Dataset
+
 ├── Tableau Dashboard
+
 ├── Dashboard Screenshots
+
 └── README.md
-🎯 Skills Demonstrated
+
+**🎯 Skills Demonstrated**
 
 Data Visualization
 
